@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "myFirstFont";
+    src: url(Peralta-Regular.ttf);
+    font-weight: bold;
+  }
+body {
+    background-image: url("topography.webp");
+    background-color: #cccccc;
+}
+
+h1 {
+    text-align: left;
+    color: black;
+    margin-left: 7%;
+    font-family: "myFirstFont";
+}
+
+h2 {
+    text-align: left;
+    color: palevioletred;
+    margin-left: 7%;
+    font-family: "myFirstFont";
+}
+.harvesting {
+    text-align: center;
+    color: black;
+    font-size: larger;
+    font-family: "myFirstFont";
+}
+
+
+
+p {
+    color: black;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+
+.--- {
+    font-size: larger;
+    color: black;
+    text-align: center;
+
+}
+
+.topnav {
+    position: center;
+    background-color: green;
+    overflow: auto;
+    text-align: right;
+}
+
+.about {
+    color: purple;   
+}
+
+.wiki {
+    color: purple;  
+}
+
+.git {
+    color: purple;   
+}
+
+.linkedin {
+    color: purple;    
+}
